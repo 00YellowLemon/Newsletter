@@ -13,19 +13,19 @@ export default function
             <img src='./logo.svg' alt='logo' />        
         </div>
         <ul className='sm:flex gap-6 text-lg cursor-pointer hidden'>
-          <li className='cursor-pointer hover:text-slate-950 gray-500 hover:text-red-500'>
+          <li className='cursor-pointer gray-500 hover:text-red-500'>
             Home
           </li>
-          <li className='cursor-pointer hover:text-slate-950 gray-500 hover:text-red-500'>
+          <li className='cursor-pointer gray-500 hover:text-red-500'>
             News
           </li>
-          <li className='cursor-pointer hover:text-slate-950 gray-500 hover:text-red-500'>
+          <li className='cursor-pointer gray-500 hover:text-red-500'>
             Popular
           </li>
-          <li className='cursor-pointer hover:text-slate-950 gray-500 hover:text-red-500'>
+          <li className='cursor-pointer gray-500 hover:text-red-500'>
             Trending
           </li>
-          <li className='cursor-pointer hover:text-slate-950 gray-500 hover:text-red-500'>
+          <li className='cursor-pointer gray-500 hover:text-red-500'>
             Categories
           </li>
         </ul>
